@@ -26,7 +26,11 @@ Inside the program, ArrayList<Double[]> data type is used to store the precipita
 | 2016 | February 14/15  | 66.0mm  |
 
 
-
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 
