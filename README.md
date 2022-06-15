@@ -48,6 +48,11 @@ Inside the program, ArrayList<Double[]> data type is used to store the precipita
 | 2020 | 12    | 172.3         |
 | 1999 | 10    | 171.1         |
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 
