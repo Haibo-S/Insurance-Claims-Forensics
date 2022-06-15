@@ -50,6 +50,7 @@ Inside the program, ArrayList<Double[]> data type is used to store the precipita
 | 1999 | October     | 171.1mm         |
 <br/>
 4, Maximum Monthly Rainfall 
+<br/>
 <p>
   <img src="imgs/mmr.png" width="500">
 </p>
