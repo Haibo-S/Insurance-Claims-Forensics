@@ -27,7 +27,8 @@ Inside the program, ArrayList<Double[]> data type is used to store the precipita
 | 2015 | November 12/13  | 67.7mm        |
 | 2016 | February 14/15  | 66.0mm        |
 
-
+2, Maximum Monthly Rainfall Over a 2-Day Period
+![alt text](https://github.com/Haibo-S/Insurance-Claims-Forensics/blob/imgs/mmr2.png?raw=true)
 
 
 
