@@ -1,7 +1,3 @@
-/**AP Lab 7
- *Haibo Sun
- *April 4th, 2022
- */
 import ptolemy.plot.*;
 import java.io.*;
 import java.util.*;
