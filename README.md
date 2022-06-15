@@ -28,7 +28,7 @@ Inside the program, ArrayList<Double[]> data type is used to store the precipita
 | 2015 | November 12/13  | 67.7mm        |
 | 2016 | February 14/15  | 66.0mm        |
 <br/>
-2, Maximum Monthly Rainfall Over a 2-Day Period<br/>
+2, Maximum Monthly Rainfall Over a 2-Day Period
 <br/>
 <p>
   <img src="imgs/mmr2.png" width="500">
@@ -55,7 +55,15 @@ Inside the program, ArrayList<Double[]> data type is used to store the precipita
   <img src="imgs/mmr.png" width="500">
 </p>
 
+**Conclusion:**<br/>
+<br/>
+Based on the analysis of the precipitation data from 1995 to 2022, it can be reasonably concluded that the recent increase in the number of insurance claims made for flood damage are invalid. This can be suggested by both the plots and the tables as heavy precipitation usually happens in the winter seasons such as October, November, and December, and the month of April does not usually have a heavy amount of precipitation, alluding to the result that these insurance claims made for flood damage are unreasonable and invalid. Even though one of the February months had a heavy rainfall, this result would not have an overall effect on the result generated since the majority of the heavy rainfalls are in the winter months. In general, April, no matter from which layer we are looking at, does not and should not have a heavy rainfall that can cause flooding. 
 
+(Source of Error 1) It must also be stated that precipitation does have a relationship with flood since heavy rainfall does cause floods, but this is not always the case. Other factors besides precipitation can also cause flooding such as overflowing rivers, broken dams, melting snow and ice, or even a lack of vegetation. Thus, it is important to keep in mind that the report can only refute the insurance claims made for floods caused by heavy rain is invalid and unreasonable, and we do not have sufficient evidence to judge other natural disasters that may potentially cause floods as enlisted above. 
+
+(Source of Error 2) Another source of error can be lacking data for several days in the spreadsheet given. Keeping in mind that a number of days are assigned with a value of -1.0 denotes that the day does not have precipitation data. This can be potentially a source of error since we are using data sets that do not have sufficient data to lead to a conclusion. Also, we have only used the precipitation data from 1995 to 2022, and the time range can be a bit brief compared to how much data Environment Canada has. Therefore, a more generalized and persuasive conclusion can be made if we expand the time range of the data. 
+
+(Source of Error 3) We are trying to make predictions for the future based on previous data, and the extrapolation process can be erroneous from time to time. For instance, the ongoing climate change can suggest that our climate is currently undergoing a shift that is different from the past. It is also possible that this year’s climate is radically different from the past, but no one can tell if this is true or not until we have sufficient data for the year of 2022. Overall, we need more precise calculations and data to determine if the insurance claims made from floods are valid or not.
 
 
 
