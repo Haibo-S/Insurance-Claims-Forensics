@@ -14,17 +14,18 @@ Inside the program, ArrayList<Double[]> data type is used to store the precipita
 
 **Result:**
 1, Top 10 Maximum Rainfall Over a 2-Day Period
-| 2003 | October 16/17   | 104.0mm |
-| ---- |:---------------:| -------:|
-| 1995 | November 7/8    | 101.4mm |
-| 2021 | November 14/15  | 100.0mm |
-| 2006 | November 5/6    | 84.4mm  |
-| 1999 | October 7/8     | 83.7mm  |
-| 2010 | December 11/12  | 75.9mm  |
-| 2020 | December 21/22  | 71.6mm  |
-| 2013 | September 28/29 | 69.3mm  |
-| 2015 | November 12/13  | 67.7mm  |
-| 2016 | February 14/15  | 66.0mm  |
+| Year | Day             | Precipitation |
+| ---- |:---------------:| -------------:|
+| 2003 | October 16/17   | 104.0mm       |
+| 1995 | November 7/8    | 101.4mm       |
+| 2021 | November 14/15  | 100.0mm       |
+| 2006 | November 5/6    | 84.4mm        |
+| 1999 | October 7/8     | 83.7mm        |
+| 2010 | December 11/12  | 75.9mm        |
+| 2020 | December 21/22  | 71.6mm        |
+| 2013 | September 28/29 | 69.3mm        |
+| 2015 | November 12/13  | 67.7mm        |
+| 2016 | February 14/15  | 66.0mm        |
 
 
 | Tables        | Are           | Cool  |
