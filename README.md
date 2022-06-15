@@ -35,18 +35,18 @@ Inside the program, ArrayList<Double[]> data type is used to store the precipita
 </p>
 2, Top Ten Monthly Rainfall(mm):<br/>
 <br/>
-| Year | Month | Precipitation |
-| ---- |:-----:| -------------:|
-| 2021 | 11    | 286.2         |
-| 2006 | 11    | 284.5         |
-| 1995 | 11    | 273.0         |
-| 1998 | 11    | 238.4         |
-| 2003 | 10    | 206.6         |
-| 2007 | 1     | 200.3         |
-| 2009 | 11    | 196.0         |
-| 2020 | 1     | 176.4         |
-| 2020 | 12    | 172.3         |
-| 1999 | 10    | 171.1         |
+| Year | Month       | Precipitation |
+| ---- |:-----------:| -------------:|
+| 2021 | November    | 286.2         |
+| 2006 | November    | 284.5         |
+| 1995 | November    | 273.0         |
+| 1998 | November    | 238.4         |
+| 2003 | October     | 206.6         |
+| 2007 | January     | 200.3         |
+| 2009 | November    | 196.0         |
+| 2020 | January     | 176.4         |
+| 2020 | December    | 172.3         |
+| 1999 | October     | 171.1         |
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
