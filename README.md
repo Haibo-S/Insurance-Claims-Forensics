@@ -15,6 +15,7 @@ Inside the program, ArrayList<Double[]> data type is used to store the precipita
 **Result:**
 1, Top 10 Maximum Rainfall Over a 2-Day Period
 | 2003 | October 16/17   | 104.0mm |
+| ---- |:---------------:| -------:|
 | 1995 | November 7/8    | 101.4mm |
 | 2021 | November 14/15  | 100.0mm |
 | 2006 | November 5/6    | 84.4mm  |
