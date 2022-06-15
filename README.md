@@ -33,8 +33,7 @@ Inside the program, ArrayList<Double[]> data type is used to store the precipita
 <p>
   <img src="imgs/mmr2.png" width="500">
 </p>
-2, Top Ten Monthly Rainfall(mm):<br/>
-<br/>
+2, Top Ten Monthly Rainfall(mm):
 | Year | Month       | Precipitation   |
 | ---- |:-----------:| ---------------:|
 | 2021 | November    | 286.2mm         |
