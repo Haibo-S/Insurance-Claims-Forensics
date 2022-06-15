@@ -12,3 +12,24 @@ The weather and precipitation data are collected from the Weather Canada in two 
 
 Inside the program, ArrayList<Double[]> data type is used to store the precipitation data. All the yearly precipitation data is stored in the Double array and all the years are then stored in the ArrayList<Double[]>. All the different ArrayList<Double[]> are initialized in the constructor of the class EasyPtPlot, and the plotting of the graph using Ptomeley is done in the main method while the tables are generated in the different methods of the class. When processing the data, the data from the two stations are averaged if both stations have the precipitation data. If none of the stations have data, then a value of -1.0 is assigned to the day without the precipitation data. If only one of the stations has data and the other one does not, then the one that has data would be assigned as the average of two stations. The day with an average value of -1.0 is eventually omitted during the calculation process. 
 
+**Result:**
+1, Top 10 Maximum Rainfall Over a 2-Day Period
+| 2003 | October 16/17   | 104.0mm |
+| 1995 | November 7/8    | 101.4mm |
+| 2021 | November 14/15  | 100.0mm |
+| 2006 | November 5/6    | 84.4mm  |
+| 1999 | October 7/8     | 83.7mm  |
+| 2010 | December 11/12  | 75.9mm  |
+| 2020 | December 21/22  | 71.6mm  |
+| 2013 | September 28/29 | 69.3mm  |
+| 2015 | November 12/13  | 67.7mm  |
+| 2016 | February 14/15  | 66.0mm  |
+
+
+
+
+
+
+
+
+
