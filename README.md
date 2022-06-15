@@ -12,7 +12,7 @@ The weather and precipitation data are collected from the Weather Canada in two 
 
 Inside the program, ArrayList<Double[]> data type is used to store the precipitation data. All the yearly precipitation data is stored in the Double array and all the years are then stored in the ArrayList<Double[]>. All the different ArrayList<Double[]> are initialized in the constructor of the class EasyPtPlot, and the plotting of the graph using Ptomeley is done in the main method while the tables are generated in the different methods of the class. When processing the data, the data from the two stations are averaged if both stations have the precipitation data. If none of the stations have data, then a value of -1.0 is assigned to the day without the precipitation data. If only one of the stations has data and the other one does not, then the one that has data would be assigned as the average of two stations. The day with an average value of -1.0 is eventually omitted during the calculation process. 
 
-**Result:**
+**Result:**<br/>
 1, Top 10 Maximum Rainfall Over a 2-Day Period
 | Year | Day             | Precipitation |
 | ---- |:---------------:| -------------:|
@@ -28,11 +28,6 @@ Inside the program, ArrayList<Double[]> data type is used to store the precipita
 | 2016 | February 14/15  | 66.0mm        |
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 
 
