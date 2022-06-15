@@ -33,7 +33,7 @@ Inside the program, ArrayList<Double[]> data type is used to store the precipita
 <p>
   <img src="imgs/mmr2.png" width="500">
 </p>
-
+<br/>
 2, Top Ten Monthly Rainfall(mm):
 
 | Year | Month       | Precipitation   |
@@ -48,8 +48,11 @@ Inside the program, ArrayList<Double[]> data type is used to store the precipita
 | 2020 | January     | 176.4mm         |
 | 2020 | December    | 172.3mm         |
 | 1999 | October     | 171.1mm         |
-
-
+<br/>
+4, Maximum Monthly Rainfall 
+<p>
+  <img src="imgs/mmr.png" width="500">
+</p>
 
 
 
