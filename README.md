@@ -29,7 +29,7 @@ Inside the program, ArrayList<Double[]> data type is used to store the precipita
 
 2, Maximum Monthly Rainfall Over a 2-Day Period<br/>
 <p>
-  <img src="mmr2.png" width="350" title="hover text">
+  <img src="imgs/mmr2.png" width="350">
 </p>
 
 
